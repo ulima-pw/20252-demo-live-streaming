@@ -100,7 +100,7 @@ const ViewerPage = () => {
       <div className="relative w-full aspect-video bg-gray-800 rounded-lg overflow-hidden mb-6">
         <div className="absolute inset-0 flex items-center justify-center">
           <p className="text-gray-400 text-xl font-mono">Video de vdo.ninja embebido aquí</p>
-          <MyVideo></MyVideo>
+          <MyVideo url="https://vdo.ninja/?view=Qu98Sx7"></MyVideo>
         </div>
       </div>
 
